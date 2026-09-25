@@ -1,0 +1,6 @@
+fastapi==0.115.*
+uvicorn[standard]==0.30.*
+supabase>=2.5
+razorpay>=1.4
+qrcode[pil]>=7.4
+python-dotenv>=1.0
