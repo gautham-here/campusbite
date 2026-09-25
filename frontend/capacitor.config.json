@@ -1,0 +1,6 @@
+{
+  "appId": "com.campusbite.app",
+  "appName": "CampusBite",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
